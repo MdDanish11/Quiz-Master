@@ -1,1 +1,1 @@
-# Quiz-Mater
+# Quiz-Master
